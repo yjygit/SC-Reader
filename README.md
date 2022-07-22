@@ -1,4 +1,4 @@
-# redofd 版式软件WEB阅读器
+# SC-Reader OFD版式WEB阅读器
 
 
 
@@ -87,7 +87,7 @@ SC-Reader OFD阅读器支持、缩略图、大纲、语义树、注释、书签�
   */
 ```
 
- **[在线体验](http://screader.scofd.com/home/pc/demo1.html)** 
+ **[在线体验](http://fp.scofd.com)** 
 
 遇到任何问题，请加下方官方QQ群反馈，谢谢。
 

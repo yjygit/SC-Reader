@@ -88,7 +88,7 @@ SC-Reader OFD阅读器支持、缩略图、大纲、语义树、注释、书签�
 
  **[在线体验](http://screader.scofd.com/home/pc/demo1.html)** 
 
-上述工具如在使用中遇到问题，请加下方官方QQ群反馈，谢谢。
+遇到任何问题，请加下方官方QQ群反馈，谢谢。
 
 ![avatar](QQ群二维码.png)
 

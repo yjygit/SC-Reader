@@ -49,6 +49,7 @@ SC-Reader OFD阅读器支持、缩略图、大纲、语义树、注释、书签�
     let containerID="#ofdview";
 
     //创建一个阅读器
+    //1234567 是授权码，可在本文后二维码公号关注后领取，完全free
 
     let ofd = new SCOFDReader(containerID,'1234567',{options});
 
